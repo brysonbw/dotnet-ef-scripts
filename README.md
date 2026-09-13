@@ -17,7 +17,7 @@ A collection of handy scripts for .NET Entity Framework Core migrations and data
 
 Copy and run these in your own folder path.
 
-> ![NOTE]
+> [!NOTE]
 > Before running a script for the first time, open your terminal and make it executable by running:
 >
 > ```bash
